@@ -1,9 +1,10 @@
 # One-UViCS README
-
+[Uploading 整体架构图new.png…]
 ```
 conda create --name memsam python=3.10
 conda activate memsam
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118!()
+
 pip install requirements.txt
 ```
 
