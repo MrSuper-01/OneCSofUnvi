@@ -1,5 +1,5 @@
 # One-UViCS README
-[Uploading 整体架构图new.png…]
+
 ```
 conda create --name memsam python=3.10
 conda activate memsam
