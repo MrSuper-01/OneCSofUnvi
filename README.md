@@ -1,5 +1,4 @@
 # One-UViCS README
-![整体架构图new](C:\Users\MSI-PC\Desktop\One论文\整体架构图new.png)
 
 ```
 conda create --name memsam python=3.10
